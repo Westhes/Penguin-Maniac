@@ -1,5 +1,6 @@
 # Penguin Maniac
 ![preview](https://i.imgur.com/ZlIWxIH.jpg)
+
 An old Processing game I made with some others during my first year at uni.
 Heavily inspired by the game Tiny Wings.
 
