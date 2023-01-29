@@ -1,5 +1,5 @@
 # Penguin Maniac
-![preview](/preview/java_wG8LGOyIxR.mp4)
+![preview](https://i.imgur.com/ZlIWxIH.mp4)
 An old Processing game I made with some others during my first year at uni.
 Heavily inspired by the game Tiny Wings.
 
